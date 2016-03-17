@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Primer post del blog!!!
 ---
 
 BarMes Soft&Hard ya tiene blog oficial en github.
