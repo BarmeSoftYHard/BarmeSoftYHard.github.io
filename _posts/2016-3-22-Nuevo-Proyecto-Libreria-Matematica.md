@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Nuevo Proyecto
+title: Nuevo Proyecto (Librería)
 ---
 
-Estoy trabajando ahora en una simple libreria matemática con un interprete matemático con una sintaxis similar a MATLAB, que permita cierta flexibilidad para poder crear Funciones personalizadas.
+Estoy trabajando ahora en una simple librería matemática con un interprete matemático con una sintaxis similar a MATLAB, que permita cierta flexibilidad para poder crear Funciones personalizadas.
 
 De momento el objetivo a corto plazo es generar una clase ValorNumerico que contenga un vector de bits , un entero que represente el tipo, otro entero que represente la posición de la coma flotante,un booleano que indique si el tamaño del vector puede crecer y un booleano que inidca si es con signo o sin signo.
 
