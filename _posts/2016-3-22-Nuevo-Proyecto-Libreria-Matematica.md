@@ -14,5 +14,7 @@ Otro objetivo será la clase Operando que contiene un array de objetos de la cla
 
 Despues ya vendra el interprete, habiendo hecho previamente la implementación de operaciones basicas (suma resta multiplicacion division modulo conjugado elevacion etcetc)
 
+[Link al proyecto](https://github.com/IngenieroFiestero/EngineeringMathTool)
+
 Saludos
-[a IngenieroFiestero](https://github.com/IngenieroFiestero)
+[IngenieroFiestero](https://github.com/IngenieroFiestero)
