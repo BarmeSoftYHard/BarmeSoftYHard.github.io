@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Sobre Nosotros
 permalink: /about/
 ---
 
-Some information about you!
+Somos un grupo de apasionados por la programacion.
 
 ### More Information
 
 A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+### Contact Us
 
-[email@domain.com](mailto:email@domain.com)
+[ingenierofiestero@gmail.com](mailto:ingenierofiestero@gmail.com)
