@@ -46,7 +46,7 @@ Tiempo en / pre: 6156,717597260
 
 Tiempo en / post: 6156,728755599
 
-O lo que es lo mismo un tiempo de respuesta de **0.1 segundo** una mejora bastante notable que nos muestra la potencia que tiene realmente pug cuando trabaja en modo produccion.
+O lo que es lo mismo un tiempo de respuesta de **0.01 segundo** una mejora bastante notable que nos muestra la potencia que tiene realmente pug cuando trabaja en modo produccion.
 
 Saludos
 [IngenieroFiestero](https://github.com/IngenieroFiestero)
