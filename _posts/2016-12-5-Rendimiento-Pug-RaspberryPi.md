@@ -3,7 +3,7 @@ layout: post
 title: Pesimo Rendimiento PUG (Jade) en RaspberryPi
 ---
 
-Para los interesados desarrollando algunproyecto con raspberrypi y nodejs que esten utilizando como motor de plantillas PUG antes conocido como Jade,
+Para los interesados desarrollando algun proyecto con raspberrypi y nodejs que esten utilizando como motor de plantillas PUG antes conocido como Jade,
 les puede interesar saber el rendimiento real que provee.
 
 En un primer momento utilice response-time (npm install response-time) para medir por medio de cabeceras el tiempo que tardaba en ser procesada una peticion.
