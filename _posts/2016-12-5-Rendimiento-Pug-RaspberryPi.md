@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pesimo Rensdimiento PUG (Jade) en RaspberryPi
+title: Pesimo Rendimiento PUG (Jade) en RaspberryPi
 ---
 
 Para los interesados desarrollando algunproyecto con raspberrypi y nodejs que esten utilizando como motor de plantillas PUG antes conocido como Jade,
