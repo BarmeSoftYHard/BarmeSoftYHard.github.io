@@ -10,6 +10,7 @@ En un primer momento utilice response-time (npm install response-time) para medi
 Para mi sorpresa en un PC normal no notas nada (0.2 segundos) pero en una raspberry el tiempo crecia hasta los 5 segundos. 
 Tras comprobar posibles problemas de rendimiento con mongodb y demas probe como ultima posibilidad que fuera del motor de plantillas. Este es el resultado:
 
+
 ```
 router.get('/', function(req, res, next) {
     console.log("Tiempo en / pre: "+ process.hrtime());
