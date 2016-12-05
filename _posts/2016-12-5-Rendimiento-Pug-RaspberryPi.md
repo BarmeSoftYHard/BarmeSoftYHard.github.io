@@ -5,6 +5,7 @@ title: Rendimiento PUG (Jade) en RaspberryPi
 
 Para los interesados desarrollando algun proyecto con raspberrypi y nodejs que esten utilizando como motor de plantillas PUG antes conocido como Jade,
 les puede interesar saber el rendimiento real que provee.
+
 #### Codigo de prueba:
 
 
