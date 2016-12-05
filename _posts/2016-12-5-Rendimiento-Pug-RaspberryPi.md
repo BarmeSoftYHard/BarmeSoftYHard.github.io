@@ -40,7 +40,7 @@ app.locals.compileDebug = false;
 app.locals.cache = true;
 ```
 
-Obtenemos como resultado
+Obtenemos como resultado tras varias cargas hasta que cachea y compila el contenido, pues no compila las cargas hasta que no se las piden por primera vez para ahorrar memoria.
 
 Tiempo en / pre: 6156,717597260
 
